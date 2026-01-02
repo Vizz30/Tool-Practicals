@@ -1,11 +1,5 @@
 #!/bin/bash
 
-echo "Jenkins server"
-
-echo "Installation on Ec2"
-
-echo "Java source code of Jenkins" 
-
 sudo apt update
 sudo apt install fontconfig openjdk-21-jre
 java -version
